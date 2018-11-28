@@ -1,0 +1,34 @@
+-:PROTOTYPE OF LEARNING PARTNER PREDICTOR:-
+
+PAGE 1:
+
+As soon as the app gets open,it displays the name of the app with the logo.
+
+PAGE 2:
+
+The page indicates the motto of the appand asks the user to register and also provides the login button if the user had already registered.
+
+PAGE 3:
+
+This page contains the information to be filled by the user for registration.
+
+PAGE 4:
+
+If the user has the account already then the login page is with email and password is shown.
+
+PAGE 5:
+
+In this the user is asked to select any 3 domain from the dispalyed domains below.
+
+PAGE 6:
+
+Each domain will direct them to a new page which will contain sub domains in it and the user has to select those according to their work performance,where each sub domain will contain few questions related to his/her work and this way the profile data will be recorded.
+
+PAGE 7:
+
+Based upon the profile data we will show the user few matches.And user have to send request to them.
+
+PAGE 8:
+
+If request is accepted there is a saperate chat box for both the user to work in a saperate domain.
+
